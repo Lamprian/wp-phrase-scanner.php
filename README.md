@@ -25,7 +25,7 @@ The default demo search phrase is:
 ```text
 your text
 
-#To change it, edit this line:
+To change it, edit this line:
 $phrase = 'your text';
 
 Installation
